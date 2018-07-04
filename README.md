@@ -6,7 +6,11 @@ To get this app to run on your local machine, you must have node.js installed. G
 
 $ git clone https://github.com/Adimvicky/expressjs-routing-demo
 
-Either of the above will clone the app on your local machine. You should then cd into the project folder and run..
+Either of the above will clone the app on your local machine. Next..
+
+$ cd expressjs-routing-demo
+
+..and  then run
 
 $ npm install
 
