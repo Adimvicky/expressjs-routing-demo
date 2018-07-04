@@ -1,6 +1,6 @@
 # expressjs-routing-demo
 
-### An Express.JS  blog app for my talk at - "Server-side Routing with Express" at Code Club PH
+### An Express.JS  blog app for my talk - "Server-side Routing with Express" at Code Club PH
 
 To get this app to run on your local machine, you must have node.js installed. Go ahead and clone the repo directly on GitHub. OR using your terminal, run..
 
