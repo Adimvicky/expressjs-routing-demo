@@ -1,7 +1,7 @@
 {
-  "name": "ExpressJs Blog App",
+  "name": "ExpressJs-Blog-App",
   "version": "1.0.0",
-  "description": "",
+  "description": "An express app that demonstrates server routing, for my talk at - 'Server-side routing with express' at Code club PH",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
