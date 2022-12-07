@@ -4,9 +4,9 @@
   "description": "An express app that demonstrates server routing, for my talk at - 'Server-side routing with express' at Code club PH",
   "main": "app.js",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "method-override": "^2.3.10"
   },
   "devDependencies": {},
